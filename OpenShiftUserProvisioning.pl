@@ -59,8 +59,9 @@ print("-> rbac_generator complete \n\n");
 ######################################
 
 # POST-PROCESSING TASKS
+print("-> starting post_processing \n");
 post_processing();
-
+print("-> post_processing complete \n");
 #
 # END MAIN
 ##############
