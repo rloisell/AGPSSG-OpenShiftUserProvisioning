@@ -1,0 +1,4 @@
+oc policy add-role-to-user admin <user> -n <project>dev
+oc policy add-role-to-user admin <user> -n <project>test
+oc policy add-role-to-user admin <user> -n <project>prod
+oc policy add-role-to-user admin <user> -n <project>tools
